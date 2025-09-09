@@ -8,7 +8,10 @@ title: Distant Reading Project
 
 # Distant Reading Assignment 
 
-*This is a page where you can paste your distant reading assignment. I strongly suggest writing it in Word or Google Docs first, because Github will not alert you of typos*
+I used Voyant to search this website! [Best Netflix Series Website](https://editorial.rottentomatoes.com/guide/best-netflix-shows-and-movies-to-binge-watch-now/)
+
+Image from Voyant:
+![Netflix Best Series Words- Synopsis, Starring, Streaming, Young, World, Movies, TV](DistantReading.png)
 
 This file ends in ".md," which means it is a Markdown document, rather than HTML. I find Markdown easier to use than HTML, but you can easily change this to an HTML document if you prefer: just replace the .md with .html and commit! 
 
