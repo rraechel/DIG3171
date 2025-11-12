@@ -18,6 +18,7 @@ The official syllabus is available [in Webcourses.](https://webcourses.ucf.edu/c
 - [Distant Reading Project](distantreading.md)
 - [Digital Narrative/Game](game.html)
 - [Tracery HTML Project](tracery.html)
+- [Digital Research Chatbot](https://share.chatling.ai/s/j6ZD2ALgDeTeVY7)
 - [Research Project](researchproject.md)
   
 ---  
