@@ -4,15 +4,14 @@ title: Research Project
 ---  
 
 # My Final Research Project  
-This is a big project, and you definitely want a place to show it off! Here's a suggested layout for that (but feel free to display your work however you prefer). You can link to your project here, or embed it. If it is easier to embed your project in an HTML file, just change the .md on this one to .html, and write in HTML! (Be sure to update the links to this page to reflect the new name though!)
+[Digital Research Chatbot](https://share.chatling.ai/s/j6ZD2ALgDeTeVY7)
 
 # Abstract
-
 With the rise of advancing artificial intelligence and chatbots, one must question what the potential risks associated with using such resources are. The usage of these technologies is increasing everyday within the general population, from customer service to education and healthcare. While these tools offer a wide range of benefits, they also introduce many new cybersecurity risks that can affect all users. This research project focuses on the cybersecurity challenges associated with AI chatbots. Using the digital tool, Chatling, one can interact with the chatbot to grasp an understanding of the potential risks. This tool allows for the user to engage with the very topic that was researched and highlights the various ways it can be weaponized against users. 
 
 Through research and interaction with specific chatbots, researchers have pinpointed where the main cybersecurity risks lie within artificial intelligence and chatbots. In ChatGPT alone, jailbreaking, social engineering attacks, phishing attacks, malware generation, and hallucination have been demonstrated (Charfeddine). While such tools have safeguards in place to prevent these issues, certain techniques such as jailbreaking and reverse psychology allow users to bypass this (Gupta 26). With AI being so accessible, cybercriminals are able to weaponize AI to create AI-driven attacks, some so advanced that typical cybersecurity measures are unable to detect these attacks (Nobles 8). In a research study, when asked about ChatGPT and other AI chatbots for daily usage such as work, majority of participants surveyed indicated they are likely or very likely to use such tools (Sebastian 6). In a different study, 80% of survey participants agreed that ChatGPT could be compromised and confidential material could be accessed, along with 89% agreeing that ChatGPT may have access to sensitive data that could potentially be misused (Alawida 21).
 
-The findings in this research project highlight the importance of understanding cybersecurity and the risks that come with the advancing technologies. Everyone is vulnerable to these attacks, whether they are engaging with AI and chatbots or not. Increasing awareness of such vulnerabilities can help promote the need for safe usage and better safeguards.
+  The findings in this research project highlight the importance of understanding cybersecurity and the risks that come with the advancing technologies. Everyone is vulnerable to these attacks, whether they are engaging with AI and chatbots or not. Increasing awareness of such vulnerabilities can help promote the need for safe usage and better safeguards.
 
 
 
