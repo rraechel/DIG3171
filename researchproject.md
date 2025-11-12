@@ -18,8 +18,6 @@ The findings in this research project highlight the importance of understanding 
 
 # Works Cited
 
-(add HTML code to do the hanging indentation, as seen below)
-
 <style>
   .works-cited {
     margin-left: 2em;
